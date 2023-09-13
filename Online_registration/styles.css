@@ -173,4 +173,7 @@ footer {
   .newletter-sections-large {
     margin: 2em 0;
   }
+  #zip {
+    width: 50%;
+  }
 }
